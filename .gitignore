@@ -1,1 +1,5 @@
-dir_to_ignore /Firmware/Blender/Images
+/Firmware/Blender/Images/
+/Firmware/Unity/Library/
+/Firmware/Unity/Logs/
+/Firmware/Unity/obj/
+/Firmware/Unity/Packages/
